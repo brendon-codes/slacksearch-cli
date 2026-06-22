@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "messages": {
+    "matches": [
+      {
+        "channel": {
+          "id": "C123",
+          "name": "general"
+        },
+        "user": "U123",
+        "username": "Ada",
+        "ts": "1508284197.000015",
+        "text": "legacy result",
+        "permalink": "https://example.slack.com/legacy"
+      }
+    ],
+    "pagination": {
+      "next_cursor": ""
+    }
+  }
+}

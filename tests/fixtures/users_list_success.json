@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "U123",
+      "name": "john",
+      "real_name": "John Doe",
+      "profile": {
+        "display_name": "John Doe",
+        "real_name": "John Doe"
+      }
+    }
+  ],
+  "response_metadata": {
+    "next_cursor": ""
+  }
+}

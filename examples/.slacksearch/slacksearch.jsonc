@@ -1,0 +1,4 @@
+{
+  // Run `slacksearch auth` to store a real Slack Web API access token locally.
+  "slack_web_api_token": null
+}

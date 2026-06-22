@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "channels": [
+    {
+      "id": "C123",
+      "name": "general"
+    }
+  ],
+  "response_metadata": {
+    "next_cursor": ""
+  }
+}
